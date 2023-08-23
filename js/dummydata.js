@@ -1,4 +1,4 @@
-/ grid dummy data
+// grid dummy data
 var dummyData = {
 	"Anna's archive":"<li><div><p style=text-align:left;color:#a480ff><b>Enlaces:</b></p></div></li><div><p style=text-align:left><u><a href=https://annas-archive.org/ target=_blank>Anna's Archive</a></u></p><p style=text-align:left><u><a href=https://annas-archive.gs/ target=_blank>Mirror 1</a></u></p></div><li><div><p style=text-align:left;color:#a480ff><b>Summary:</b></p></li></div><div> <p style=text-align:left> Anna's Archive es un metabuscador en línea gratuito y sin ánimo de lucro de bibliotecas en la sombra (supuestamente a través de IPFS) que proporciona acceso a diversos recursos de libros. Creado por un equipo de archiveros anónimos, y lanzado en respuesta directa a los esfuerzos de las fuerzas de seguridad, formalmente asistidas por The Publishers Association y el Authors Guild, para cerrar el sitio web Z-Library en noviembre de 2022.</p></div> ",
 
