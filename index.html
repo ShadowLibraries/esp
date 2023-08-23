@@ -38,7 +38,7 @@
 				</nav>
 			</div>
 		</header>
-		<button class="action action--open" aria-label="Open Menu"><span class="icon icon--menu"></span></button>
+	<button class="action action--open" aria-label="Open Menu"><span class="icon icon--menu"></span></button>
 		<nav id="ml-menu" class="menu">
 			<button class="action action--close" aria-label="Close Menu"><span class="icon icon--cross"></span></button>
 			<div class="menu__wrap">
@@ -52,14 +52,13 @@
 				</ul>
 				<!-- Submenu 1 -->
 				<ul data-menu="submenu-1" id="submenu-1" class="menu__level" tabindex="-1" role="menu" aria-label="Descarga directa">
+					<li class="menu__item" role="menuitem"><a class="menu__link" href="#">Z-Lib / Anna's archive</a></li>
 					<li class="menu__item" role="menuitem"><a class="menu__link" href="#">LibGen [Multi-Idioma]</a></li>
 					<li class="menu__item" role="menuitem"><a class="menu__link" href="#">Sci-Hub [Multi-Idioma]</a></li>
 					<li class="menu__item" role="menuitem"><a class="menu__link" href="#">Internet Archive [Multi-Idioma]</a></li>
 					<li class="menu__item" role="menuitem"><a class="menu__link" href="#">Trantor [Multi-Idioma]</a></li>
-					<li class="menu__item" role="menuitem"><a class="menu__link" href="#">CALISHOT [Multi-Idioma]</a></li>
 					<li class="menu__item" role="menuitem"><a class="menu__link" href="#">Memory of the World [Multi-Idioma]</a></li>
 					<li class="menu__item" role="menuitem"><a class="menu__link" href="#">AAAAARG [Multi-Idioma]</a></li>
-					<li class="menu__item" role="menuitem"><a class="menu__link" href="#">All IT eBooks [INGLES]</a></li>
 					<li class="menu__item" role="menuitem"><a class="menu__link" href="#">Forcoder.su [INGLES]</a></li>
 					<li class="menu__item" role="menuitem"><a class="menu__link" href="#">Lectulandia [ESPAÑOL]</a></li>
 					<li class="menu__item" role="menuitem"><a class="menu__link" href="#">Pirateca [ESPAÑOL]</a></li>
@@ -93,7 +92,7 @@
 			</div>
 		</nav>
 		<div class="content">
-			<p class="info">¡Nos mudamos a <a href="https://shadowlibraries.github.io/">https://shadowlibraries.github.io/</a>!</br> <img src="pirate-logo-color.png" style=width:180px;height:180px></p>
+			<p class="info">Por favor selecciona el método de descarga</br></br><img id="random-image"/></p>
 
 			<!-- Ajax loaded content here -->
 		</div>
@@ -146,6 +145,7 @@
 		}
 	})();
 	</script>
+	<script src="js/randomimg.js"></script>
 </body>
 
 </html>
