@@ -42,4 +42,3 @@ var dummyData = {
 "Otros Sitios":"<li><div><p style=text-align:left;color:#a480ff><b>Resumen:</b></p></div></li><div><p style=text-align:left>Si aún no tuviste suerte encontrando lo que buscabas, tal vez quieras probar con alguno de estos:</p></div><div><p style=text-align:left><a href=https://literariness.org/Ebooks/ target=_blank><u>literariness.org [MULTI-LENG]</u></a></p></div><div><p style=text-align:left><a href=https://forum.mobilism.org/viewforum.php?f=120&sid=686b0720ef91c8d7a0e720fdcd66738a target=_blank><u>mobilism.org [Inglés]</u></a></p></div><div><p style=text-align:left><a href=https://ebook-hunter.org/ target=_blank><u>ebook-hunter [MULTI-LENG]</u></a></p></div>",
 
 }
-}
